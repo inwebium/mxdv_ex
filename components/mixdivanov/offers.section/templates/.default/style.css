@@ -1,0 +1,11 @@
+.catalog-filter-menu li {
+    margin-bottom: 10px;
+    padding: 5px 6px;
+}
+.catalog-filter-menu li.filter_active {
+	background: #fecb01;
+}
+div.catalog-body.fullwidth {
+    width: 100%;
+    padding-left: 0px;
+}

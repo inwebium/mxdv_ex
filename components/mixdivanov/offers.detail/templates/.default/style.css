@@ -1,0 +1,59 @@
+.product-pager img {
+	width: 100%;
+}
+
+.js-cloth_target-image img {
+	width: 50px;
+	height: 50px;
+}
+
+.cloth-collection-column {
+	float: left;
+    width: 100% !important;
+    margin-bottom: 10px;
+    padding: 0 8px;
+    padding-bottom: 25%;
+    position: relative;
+    overflow: hidden;
+}
+.cloth-collection-column .cloth-collection__item {
+    text-decoration: none;
+    color: #1c1c1c;
+    line-height: 18px;
+    font-size: 12px;
+    position: relative;
+    width: 100%;
+}
+.cloth-collection__item .cloth-img-container {
+    overflow: hidden;
+    position: relative;
+}
+.cloth-collection__item img {
+    object-fit: none;
+}
+.cloth-collection-column .cloth-name {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+    color: #1c1c1c;
+    line-height: 18px;
+    font-size: 12px;
+}
+
+.collection-table {
+
+}
+.collection-table tr {
+
+}
+.collection-table tr td {
+    width: 25%;
+    vertical-align: top;
+}
+.tooltip__text {
+    z-index: 99;
+}
+.tooltip__text img {
+    max-width: 200px;
+    display: inline-block;
+}
